@@ -1,4 +1,6 @@
 Please write different methods one java file to solve each question
+====================================================================================
+
 [1] Given a non-empty string and an int N, return the string made starting with char 0, and then every Nth char of the string. So if N is 3, use char 0, 3, 6, ... and so on. N is 1 or more. 
 
 everyNth("Miracle", 2) → "Mrce"
@@ -42,4 +44,11 @@ close10(13, 7) → 0
 loneTeen(13, 99) → true
 loneTeen(21, 19) → true
 loneTeen(13, 13) → false
+==============================================================================================================
+How to Submit your changes:-
 
+i.  Fork the GitHub repository at https://github.com/himanshu5jan/jWarmUp4Selenium.git to create a copy under your own account.
+ii. Clone your forked GitHub repository to your computer so that you can edit the files locally on your own machine. 
+iii. Edit the Java file contained in the git repository and place your solution in that file (please do not rename the file).
+iv. Commit your completed Java file into YOUR git repository and push your git branch to the GitHub repository under your account.
+v. Submit through email your GitHub repository that contains the completed Java code for the assignment.
